@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureGate", "SecureGate\SecureGate.csproj", "{BD30D597-3EAA-4BED-83D7-D2F77D3995B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD30D597-3EAA-4BED-83D7-D2F77D3995B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD30D597-3EAA-4BED-83D7-D2F77D3995B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD30D597-3EAA-4BED-83D7-D2F77D3995B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD30D597-3EAA-4BED-83D7-D2F77D3995B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
